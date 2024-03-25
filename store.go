@@ -1,7 +1,7 @@
 package indexer
 
 import (
-	"github.com/osiloke/gostore-contrib/common"
+	common "github.com/osiloke/gostore-common"
 )
 
 // ProviderStore a store which provides data to an index store
